@@ -1,7 +1,7 @@
 library crud;
 
-import 'package:crud/utils.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_crud/utils.dart';
 
 /// 使用方式 ：
 /// 1. 全局覆盖 PaginatedRequest 配置

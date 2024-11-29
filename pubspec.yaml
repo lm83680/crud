@@ -1,7 +1,7 @@
-name: crud
-description: "A new Flutter package project."
+name: flutter_crud
+description: "A [creat, updata, reset, delete] Hook for mobile device"
 version: 0.0.1
-homepage:
+homepage: https://github.com/lm83680/crud
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
