@@ -1,6 +1,6 @@
 name: flutter_crud
-description: "A [creat, updata, reset, delete] Hook for mobile device"
-version: 0.0.1
+description: "A [creat, updata, reset, delete] Hook for mobile device or table device。With a one-time configuration, all paginated data content within the app can be handled with minimal code."
+version: 0.0.2
 homepage: https://github.com/lm83680/crud
 
 environment:

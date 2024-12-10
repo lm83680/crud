@@ -1,3 +1,6 @@
+## 0.0.2
+* Fix some bug, add example
+
 ## 0.0.1
 
-* 完成了增删改查，支持游标.
+* Completed addition, deletion, modification and query, and supports cursors.
